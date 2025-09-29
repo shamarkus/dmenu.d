@@ -18,7 +18,12 @@ Afterwards enter the following command to build and install dmenu
 
     make clean install
 
+Vim Motions 
+-----------
+By default, enters in Insert mode. Ctrl+C to exit the menu. 
 
-Running dmenu
--------------
-See the man page for details.
+
+Tidy
+----
+Link a set of executables to $HOME/.local/bin
+
